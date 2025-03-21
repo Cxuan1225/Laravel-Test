@@ -5,8 +5,8 @@
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
-    cd <project-folder>
+    git clone https://github.com/Cxuan1225/Laravel-Test.git
+    cd Laravel-Test
     ```
 
 2. **Install dependencies:**
